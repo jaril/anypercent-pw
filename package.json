@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jaril/anypercent-pw#readme",
   "dependencies": {
-    "@replayio/playwright": "^0.2.19",
-    "playwright": "v1.19"
+    "playwright": "v1.19",
+    "@replayio/playwright": "^0.2.19"
   }
 }
