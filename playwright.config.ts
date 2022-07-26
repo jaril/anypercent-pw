@@ -20,14 +20,14 @@ const config = {
     //   name: "replay-chromium",
     //   use: { ...replayDevices["Replay Chromium"] as any },
     // },
-    {
-      name: "firefox",
-      use: { ...devices["Desktop Firefox"] },
-    },
-    {
-      name: "chromium",
-      use: { ...devices["Desktop Chromium"] },
-    },
+    // {
+    //   name: "firefox",
+    //   use: { ...devices["Desktop Firefox"] },
+    // },
+    // {
+    //   name: "chromium",
+    //   use: { ...devices["Desktop Chromium"] },
+    // },
   ],
 };
 
